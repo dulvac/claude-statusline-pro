@@ -2,6 +2,8 @@
 
 A rich, colorized status bar for Claude Code that displays key session info at a glance.
 
+![Claude Statusline Pro screenshot](assets/screenshot.png)
+
 ## What it shows
 
 ```
