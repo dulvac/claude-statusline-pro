@@ -2,7 +2,7 @@
   "name": "claude-statusline-pro",
   "owner": {
     "name": "adulvac",
-    "contact": "github.com/adulvac"
+    "contact": "github.com/dulvac"
   },
   "description": "A rich, colorized status bar for Claude Code showing project info, git branch, session time, model name, and a context window usage bar",
   "plugins": [
@@ -12,7 +12,7 @@
       "description": "Rich status bar with project dir, git branch, session timer, model name, and color-coded context window usage bar with token counts",
       "version": "1.0.0",
       "author": {
-        "name": "adulvac"
+        "name": "dulvac"
       },
       "tags": ["statusline", "status-bar", "context-window", "productivity", "developer-experience"]
     }

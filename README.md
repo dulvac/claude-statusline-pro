@@ -22,7 +22,7 @@ A rich, colorized status bar for Claude Code that displays key session info at a
 Add the marketplace in Claude Code:
 
 ```
-/plugin marketplace add adulvac/claude-statusline-pro
+/plugin marketplace add dulvac/claude-statusline-pro
 ```
 
 Then enable the plugin from the Discover tab (`/plugin` > Discover).
