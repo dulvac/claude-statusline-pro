@@ -29,6 +29,20 @@ Add the marketplace in Claude Code:
 
 Then enable the plugin from the Discover tab (`/plugin` > Discover).
 
+### Activate the statusline
+
+Run the setup command to add the statusline to your global Claude Code settings:
+
+```
+/statusline-pro:setup
+```
+
+To disable it later:
+
+```
+/statusline-pro:setup disable
+```
+
 ## Requirements
 
 - `jq` must be installed (`brew install jq` on macOS, `apt install jq` on Linux)
